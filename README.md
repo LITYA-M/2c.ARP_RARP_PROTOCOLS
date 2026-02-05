@@ -50,7 +50,9 @@ while True:
 c.close()
 s.close()
 ```
+
 client
+
 ```
 import socket
 c = socket.socket()
@@ -73,6 +75,7 @@ server
 <img width="721" height="191" alt="Screenshot 2026-02-05 111110" src="https://github.com/user-attachments/assets/eca28e13-64fe-4237-a995-138048e11669" />
 
 client
+
 <img width="691" height="206" alt="Screenshot 2026-02-05 111120" src="https://github.com/user-attachments/assets/0253acf0-6f15-4152-91dc-91049ca06606" />
 
 
